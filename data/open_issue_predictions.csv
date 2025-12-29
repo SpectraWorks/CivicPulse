@@ -1,0 +1,859 @@
+city,ward,issue_type,days_since_reported,predicted_remaining_days
+bengaluru,indiranagar,pothole,59,-36.92308236823368
+bengaluru,whitefield,water supply issue,58,-42.02093313491183
+bengaluru,yelahanka,broken streetlight,57,-35.09656237909201
+bengaluru,yelahanka,sewage issue,57,-31.429698329549648
+bengaluru,yelahanka,damaged footpath,57,-31.382862929311194
+bengaluru,indiranagar,damaged footpath,57,-31.24557589230288
+bengaluru,electronic city,pothole,57,-35.00816397090941
+bengaluru,jayanagar,sewage issue,57,-30.839455035879663
+bengaluru,whitefield,garbage overflow,56,-33.85272928694124
+bengaluru,jayanagar,damaged footpath,55,-28.79261963564121
+bengaluru,whitefield,pothole,55,-32.8717057739176
+bengaluru,yelahanka,pothole,55,-33.06036940524199
+bengaluru,indiranagar,water supply issue,54,-38.07230972922791
+bengaluru,whitefield,pothole,53,-30.871705773917594
+bengaluru,btm layout,sewage issue,53,-27.67468937168356
+bengaluru,indiranagar,damaged footpath,53,-27.24557589230288
+bengaluru,btm layout,garbage overflow,52,-30.28638396039955
+bengaluru,yelahanka,water supply issue,51,-35.209596766236224
+bengaluru,whitefield,broken streetlight,51,-28.90789874776761
+bengaluru,jayanagar,damaged footpath,51,-24.79261963564121
+bengaluru,indiranagar,damaged footpath,50,-24.24557589230288
+bengaluru,whitefield,garbage overflow,50,-27.85272928694124
+bengaluru,jayanagar,sewage issue,50,-23.839455035879663
+bengaluru,indiranagar,damaged footpath,49,-23.24557589230288
+bengaluru,btm layout,sewage issue,49,-23.67468937168356
+bengaluru,indiranagar,damaged footpath,48,-22.24557589230288
+bengaluru,indiranagar,pothole,48,-25.92308236823368
+bengaluru,jayanagar,pothole,48,-25.470126111572007
+bengaluru,whitefield,water supply issue,48,-32.02093313491183
+bengaluru,indiranagar,sewage issue,48,-22.292411292541335
+bengaluru,whitefield,garbage overflow,48,-25.85272928694124
+bengaluru,whitefield,garbage overflow,47,-24.85272928694124
+bengaluru,yelahanka,pothole,46,-24.060369405241993
+bengaluru,indiranagar,water supply issue,46,-30.07230972922791
+bengaluru,btm layout,broken streetlight,46,-24.34155342122592
+bengaluru,indiranagar,garbage overflow,46,-23.904105881257326
+bengaluru,btm layout,damaged footpath,46,-20.627853971445106
+bengaluru,electronic city,sewage issue,45,-19.37749289521706
+bengaluru,indiranagar,water supply issue,44,-28.07230972922791
+bengaluru,jayanagar,garbage overflow,43,-20.451149624595654
+bengaluru,indiranagar,broken streetlight,43,-20.9592753420837
+bengaluru,electronic city,broken streetlight,43,-21.044356944759425
+bengaluru,whitefield,water supply issue,43,-27.020933134911825
+bengaluru,whitefield,damaged footpath,42,-16.194199297986795
+bengaluru,jayanagar,water supply issue,42,-25.61935347256624
+bengaluru,whitefield,garbage overflow,42,-19.85272928694124
+bengaluru,whitefield,garbage overflow,41,-18.85272928694124
+bengaluru,electronic city,broken streetlight,41,-19.044356944759425
+bengaluru,btm layout,garbage overflow,41,-19.28638396039955
+bengaluru,indiranagar,garbage overflow,41,-18.904105881257326
+bengaluru,btm layout,garbage overflow,39,-17.28638396039955
+bengaluru,yelahanka,broken streetlight,38,-16.096562379092013
+bengaluru,electronic city,garbage overflow,38,-15.989187483933051
+bengaluru,indiranagar,sewage issue,38,-12.292411292541335
+bengaluru,yelahanka,sewage issue,37,-11.429698329549648
+bengaluru,yelahanka,damaged footpath,37,-11.382862929311194
+bengaluru,whitefield,water supply issue,37,-21.020933134911825
+bengaluru,indiranagar,damaged footpath,36,-10.245575892302881
+bengaluru,whitefield,damaged footpath,36,-10.194199297986795
+bengaluru,whitefield,sewage issue,36,-10.24103469822525
+bengaluru,indiranagar,sewage issue,36,-10.292411292541335
+bengaluru,yelahanka,damaged footpath,35,-9.382862929311194
+bengaluru,yelahanka,water supply issue,34,-18.209596766236224
+bengaluru,whitefield,pothole,34,-11.871705773917594
+bengaluru,whitefield,sewage issue,33,-7.241034698225249
+bengaluru,whitefield,broken streetlight,33,-10.90789874776761
+bengaluru,btm layout,damaged footpath,33,-7.627853971445106
+bengaluru,btm layout,damaged footpath,32,-6.627853971445106
+bengaluru,yelahanka,water supply issue,32,-16.209596766236224
+bengaluru,electronic city,garbage overflow,30,-7.989187483933051
+bengaluru,indiranagar,pothole,30,-7.923082368233679
+bengaluru,indiranagar,pothole,30,-7.923082368233679
+bengaluru,indiranagar,damaged footpath,29,-3.245575892302881
+bengaluru,jayanagar,damaged footpath,29,-2.792619635641209
+bengaluru,whitefield,damaged footpath,29,-3.1941992979867955
+bengaluru,electronic city,damaged footpath,28,-2.3306574949786096
+bengaluru,btm layout,damaged footpath,28,-2.6278539714451057
+bengaluru,jayanagar,damaged footpath,28,-1.7926196356412092
+bengaluru,yelahanka,broken streetlight,27,-5.096562379092013
+bengaluru,electronic city,broken streetlight,27,-5.044356944759425
+bengaluru,whitefield,damaged footpath,27,-1.1941992979867955
+bengaluru,btm layout,garbage overflow,27,-5.286383960399551
+bengaluru,jayanagar,pothole,27,-4.470126111572007
+bengaluru,jayanagar,sewage issue,26,0.16054496412033714
+bengaluru,jayanagar,garbage overflow,26,-3.4511496245956543
+bengaluru,electronic city,garbage overflow,25,-2.9891874839330512
+bengaluru,whitefield,pothole,25,-2.8717057739175935
+bengaluru,btm layout,damaged footpath,25,0.3721460285548943
+bengaluru,indiranagar,sewage issue,24,1.7075887074586653
+bengaluru,btm layout,pothole,24,-2.3053604473759
+bengaluru,yelahanka,damaged footpath,24,1.6171370706888055
+bengaluru,electronic city,broken streetlight,23,-1.044356944759425
+bengaluru,whitefield,garbage overflow,23,-0.8527292869412406
+bengaluru,jayanagar,garbage overflow,23,-0.45114962459565433
+bengaluru,electronic city,sewage issue,21,4.62250710478294
+bengaluru,yelahanka,damaged footpath,21,4.6171370706888055
+bengaluru,whitefield,broken streetlight,21,1.0921012522323892
+bengaluru,jayanagar,water supply issue,20,-3.619353472566239
+bengaluru,indiranagar,pothole,20,2.076917631766321
+bengaluru,yelahanka,broken streetlight,19,2.9034376209079866
+bengaluru,jayanagar,broken streetlight,19,3.4936809145779755
+bengaluru,whitefield,water supply issue,19,-3.020933134911825
+bengaluru,btm layout,pothole,18,3.6946395526241
+bengaluru,btm layout,damaged footpath,18,7.372146028554894
+bengaluru,btm layout,pothole,18,3.6946395526241
+bengaluru,indiranagar,broken streetlight,18,4.0407246579163
+bengaluru,electronic city,broken streetlight,18,3.955643055240575
+bengaluru,yelahanka,water supply issue,18,-2.209596766236224
+bengaluru,yelahanka,pothole,17,4.9396305947580075
+bengaluru,electronic city,water supply issue,17,-1.1573913319036393
+bengaluru,electronic city,pothole,16,5.991836029090596
+bengaluru,electronic city,sewage issue,16,9.62250710478294
+bengaluru,indiranagar,broken streetlight,16,6.0407246579163
+bengaluru,whitefield,water supply issue,16,-0.020933134911825135
+bengaluru,jayanagar,water supply issue,15,1.3806465274337612
+bengaluru,btm layout,pothole,15,6.6946395526241
+bengaluru,yelahanka,water supply issue,15,0.7904032337637759
+bengaluru,jayanagar,pothole,15,7.529873888427993
+bengaluru,indiranagar,pothole,14,8.076917631766321
+bengaluru,yelahanka,pothole,14,7.9396305947580075
+bengaluru,yelahanka,broken streetlight,14,7.903437620907987
+bengaluru,whitefield,pothole,14,8.128294226082406
+bengaluru,btm layout,damaged footpath,13,12.372146028554894
+bengaluru,jayanagar,garbage overflow,13,9.548850375404346
+bengaluru,btm layout,pothole,12,9.6946395526241
+bengaluru,btm layout,broken streetlight,10,11.658446578774079
+bengaluru,electronic city,garbage overflow,10,12.010812516066949
+bengaluru,jayanagar,sewage issue,9,17.160544964120337
+bengaluru,indiranagar,damaged footpath,9,16.75442410769712
+bengaluru,electronic city,water supply issue,9,6.842608668096361
+bengaluru,indiranagar,damaged footpath,8,17.75442410769712
+bengaluru,yelahanka,water supply issue,8,7.790403233763776
+bengaluru,electronic city,broken streetlight,8,13.955643055240575
+bengaluru,btm layout,broken streetlight,7,14.658446578774079
+bengaluru,electronic city,garbage overflow,7,15.010812516066949
+bengaluru,electronic city,sewage issue,6,19.62250710478294
+bengaluru,electronic city,pothole,6,15.991836029090596
+bengaluru,electronic city,garbage overflow,5,17.01081251606695
+bengaluru,jayanagar,broken streetlight,4,18.493680914577975
+bengaluru,whitefield,garbage overflow,4,18.14727071305876
+bengaluru,btm layout,sewage issue,4,21.32531062831644
+bengaluru,yelahanka,garbage overflow,4,17.95860708173436
+bengaluru,btm layout,damaged footpath,4,21.372146028554894
+bengaluru,indiranagar,sewage issue,3,22.707588707458665
+bengaluru,electronic city,sewage issue,2,23.62250710478294
+bengaluru,electronic city,damaged footpath,2,23.66934250502139
+bengaluru,whitefield,broken streetlight,2,20.09210125223239
+bengaluru,indiranagar,damaged footpath,1,24.75442410769712
+bengaluru,btm layout,sewage issue,0,25.32531062831644
+bengaluru,electronic city,damaged footpath,0,25.66934250502139
+bengaluru,indiranagar,water supply issue,0,15.927690270772088
+bengaluru,jayanagar,sewage issue,0,26.160544964120337
+chennai,adyar,damaged footpath,59,-32.676961066173746
+chennai,t nagar,sewage issue,58,-31.7153896174514
+chennai,tambaram,pothole,58,-35.65130614973058
+chennai,t nagar,garbage overflow,58,-35.32708420616739
+chennai,tambaram,broken streetlight,58,-35.6874991235806
+chennai,t nagar,garbage overflow,57,-34.32708420616739
+chennai,anna nagar,sewage issue,57,-31.380043096176514
+chennai,adyar,sewage issue,57,-30.723796466412196
+chennai,anna nagar,damaged footpath,56,-30.333207695938064
+chennai,adyar,sewage issue,56,-29.723796466412196
+chennai,tambaram,pothole,56,-33.65130614973058
+chennai,adyar,broken streetlight,55,-32.39066051595456
+chennai,anna nagar,damaged footpath,55,-29.333207695938064
+chennai,tambaram,broken streetlight,55,-32.6874991235806
+chennai,velachery,garbage overflow,55,-32.90987576017451
+chennai,adyar,sewage issue,54,-27.723796466412196
+chennai,anna nagar,pothole,53,-31.01071417186886
+chennai,velachery,pothole,53,-30.928852247150857
+chennai,tambaram,pothole,53,-30.65130614973058
+chennai,anna nagar,broken streetlight,52,-30.04690714571888
+chennai,tambaram,garbage overflow,52,-29.632329662754227
+chennai,anna nagar,damaged footpath,52,-26.333207695938064
+chennai,anna nagar,damaged footpath,52,-26.333207695938064
+chennai,anna nagar,pothole,52,-30.01071417186886
+chennai,tambaram,garbage overflow,52,-29.632329662754227
+chennai,tambaram,damaged footpath,51,-24.973799673799782
+chennai,anna nagar,sewage issue,50,-24.380043096176514
+chennai,adyar,pothole,50,-27.35446754210454
+chennai,t nagar,pothole,50,-27.34606069314374
+chennai,anna nagar,sewage issue,50,-24.380043096176514
+chennai,anna nagar,sewage issue,48,-22.380043096176514
+chennai,adyar,damaged footpath,48,-21.676961066173742
+chennai,anna nagar,damaged footpath,48,-22.333207695938064
+chennai,t nagar,broken streetlight,47,-24.382253666993762
+chennai,tambaram,broken streetlight,47,-24.6874991235806
+chennai,anna nagar,water supply issue,47,-31.159941532863094
+chennai,velachery,broken streetlight,46,-23.965045221000878
+chennai,t nagar,garbage overflow,46,-23.32708420616739
+chennai,t nagar,water supply issue,46,-29.495288054137976
+chennai,anna nagar,garbage overflow,45,-22.991737684892506
+chennai,anna nagar,garbage overflow,44,-21.991737684892506
+chennai,velachery,damaged footpath,44,-18.251345771220063
+chennai,anna nagar,pothole,44,-22.01071417186886
+chennai,t nagar,water supply issue,44,-27.495288054137976
+chennai,t nagar,pothole,44,-21.34606069314374
+chennai,velachery,water supply issue,43,-27.078079608145092
+chennai,anna nagar,garbage overflow,43,-20.991737684892506
+chennai,tambaram,water supply issue,43,-26.800533510724815
+chennai,adyar,damaged footpath,43,-16.676961066173742
+chennai,velachery,sewage issue,42,-16.298181171458516
+chennai,velachery,pothole,42,-19.928852247150857
+chennai,tambaram,water supply issue,41,-24.800533510724815
+chennai,tambaram,garbage overflow,41,-18.632329662754227
+chennai,adyar,damaged footpath,41,-14.676961066173742
+chennai,anna nagar,water supply issue,41,-25.159941532863094
+chennai,velachery,garbage overflow,40,-17.909875760174508
+chennai,t nagar,water supply issue,40,-23.495288054137976
+chennai,t nagar,broken streetlight,40,-17.382253666993762
+chennai,tambaram,pothole,39,-16.65130614973058
+chennai,velachery,pothole,39,-16.928852247150857
+chennai,anna nagar,damaged footpath,39,-13.333207695938064
+chennai,adyar,broken streetlight,39,-16.390660515954558
+chennai,velachery,sewage issue,39,-13.298181171458516
+chennai,velachery,pothole,39,-16.928852247150857
+chennai,velachery,damaged footpath,38,-12.251345771220063
+chennai,anna nagar,broken streetlight,37,-15.04690714571888
+chennai,tambaram,water supply issue,37,-20.800533510724815
+chennai,t nagar,damaged footpath,37,-10.668554217212947
+chennai,adyar,damaged footpath,37,-10.676961066173742
+chennai,velachery,damaged footpath,37,-11.251345771220063
+chennai,tambaram,sewage issue,36,-10.020635074038236
+chennai,adyar,sewage issue,36,-9.723796466412196
+chennai,velachery,water supply issue,36,-20.078079608145092
+chennai,adyar,broken streetlight,36,-13.390660515954558
+chennai,adyar,garbage overflow,36,-13.335491055128188
+chennai,tambaram,water supply issue,36,-19.800533510724815
+chennai,t nagar,water supply issue,35,-18.495288054137976
+chennai,anna nagar,sewage issue,35,-9.380043096176514
+chennai,t nagar,garbage overflow,35,-12.327084206167392
+chennai,tambaram,sewage issue,35,-9.020635074038236
+chennai,tambaram,pothole,35,-12.65130614973058
+chennai,tambaram,broken streetlight,34,-11.6874991235806
+chennai,velachery,garbage overflow,34,-11.909875760174508
+chennai,tambaram,garbage overflow,34,-11.632329662754227
+chennai,anna nagar,sewage issue,33,-7.380043096176514
+chennai,adyar,sewage issue,33,-6.723796466412196
+chennai,adyar,garbage overflow,33,-10.335491055128188
+chennai,velachery,broken streetlight,33,-10.965045221000878
+chennai,anna nagar,sewage issue,32,-6.380043096176514
+chennai,velachery,broken streetlight,32,-9.965045221000878
+chennai,tambaram,pothole,31,-8.65130614973058
+chennai,velachery,sewage issue,31,-5.298181171458516
+chennai,velachery,broken streetlight,31,-8.965045221000878
+chennai,adyar,sewage issue,31,-4.723796466412196
+chennai,anna nagar,broken streetlight,30,-8.04690714571888
+chennai,adyar,garbage overflow,30,-7.3354910551281876
+chennai,velachery,water supply issue,28,-12.078079608145092
+chennai,anna nagar,damaged footpath,28,-2.3332076959380643
+chennai,adyar,damaged footpath,26,0.3230389338262576
+chennai,velachery,broken streetlight,26,-3.965045221000878
+chennai,tambaram,water supply issue,26,-9.800533510724815
+chennai,t nagar,garbage overflow,26,-3.3270842061673918
+chennai,t nagar,garbage overflow,25,-2.3270842061673918
+chennai,tambaram,garbage overflow,25,-2.632329662754227
+chennai,adyar,sewage issue,24,2.276203533587804
+chennai,velachery,garbage overflow,24,-1.9098757601745078
+chennai,t nagar,garbage overflow,24,-1.3270842061673918
+chennai,velachery,broken streetlight,24,-1.965045221000878
+chennai,tambaram,broken streetlight,23,-0.6874991235806007
+chennai,anna nagar,sewage issue,23,2.6199569038234856
+chennai,velachery,broken streetlight,23,-0.965045221000878
+chennai,anna nagar,water supply issue,23,-7.159941532863092
+chennai,tambaram,broken streetlight,22,0.3125008764193993
+chennai,t nagar,damaged footpath,22,4.331445782787053
+chennai,anna nagar,pothole,22,-0.010714171868858813
+chennai,anna nagar,water supply issue,22,-6.159941532863092
+chennai,t nagar,garbage overflow,20,2.6729157938326082
+chennai,velachery,water supply issue,20,-4.078079608145092
+chennai,t nagar,damaged footpath,19,7.331445782787053
+chennai,tambaram,broken streetlight,19,3.3125008764193993
+chennai,tambaram,garbage overflow,18,4.367670337245773
+chennai,velachery,pothole,18,4.071147752849143
+chennai,anna nagar,sewage issue,18,7.619956903823486
+chennai,adyar,sewage issue,18,8.276203533587804
+chennai,anna nagar,sewage issue,18,7.619956903823486
+chennai,tambaram,pothole,18,4.34869385026942
+chennai,anna nagar,sewage issue,18,7.619956903823486
+chennai,t nagar,pothole,18,4.653939306856259
+chennai,velachery,water supply issue,16,-0.0780796081450923
+chennai,t nagar,water supply issue,15,1.5047119458620237
+chennai,velachery,garbage overflow,14,8.090124239825492
+chennai,adyar,pothole,14,8.64553245789546
+chennai,anna nagar,garbage overflow,14,8.008262315107494
+chennai,t nagar,pothole,14,8.653939306856259
+chennai,tambaram,broken streetlight,13,9.3125008764194
+chennai,adyar,sewage issue,13,13.276203533587804
+chennai,anna nagar,broken streetlight,12,9.95309285428112
+chennai,velachery,garbage overflow,12,10.090124239825492
+chennai,tambaram,broken streetlight,12,10.3125008764194
+chennai,anna nagar,broken streetlight,12,9.95309285428112
+chennai,velachery,broken streetlight,12,10.034954778999122
+chennai,tambaram,pothole,11,11.34869385026942
+chennai,velachery,garbage overflow,10,12.090124239825492
+chennai,anna nagar,pothole,10,11.989285828131141
+chennai,t nagar,pothole,10,12.653939306856259
+chennai,t nagar,broken streetlight,10,12.617746333006238
+chennai,anna nagar,sewage issue,10,15.619956903823486
+chennai,adyar,broken streetlight,10,12.609339484045442
+chennai,tambaram,sewage issue,8,17.979364925961764
+chennai,tambaram,water supply issue,8,8.199466489275185
+chennai,t nagar,sewage issue,7,19.2846103825486
+chennai,adyar,sewage issue,7,19.276203533587804
+chennai,velachery,pothole,7,15.071147752849143
+chennai,adyar,broken streetlight,6,16.609339484045442
+chennai,anna nagar,broken streetlight,6,15.95309285428112
+chennai,anna nagar,water supply issue,5,10.840058467136908
+chennai,t nagar,damaged footpath,5,21.331445782787053
+chennai,velachery,pothole,4,18.071147752849143
+chennai,tambaram,water supply issue,4,12.199466489275185
+chennai,velachery,broken streetlight,3,19.034954778999122
+chennai,velachery,sewage issue,3,22.701818828541484
+chennai,anna nagar,water supply issue,3,12.840058467136908
+chennai,t nagar,garbage overflow,2,20.67291579383261
+chennai,velachery,water supply issue,2,13.921920391854908
+chennai,t nagar,damaged footpath,2,24.331445782787053
+chennai,t nagar,broken streetlight,1,21.617746333006238
+chennai,anna nagar,garbage overflow,1,21.008262315107494
+chennai,velachery,broken streetlight,1,21.034954778999122
+chennai,velachery,garbage overflow,1,21.090124239825492
+chennai,tambaram,garbage overflow,0,22.367670337245773
+delhi,dwarka,pothole,59,-37.92624071308026
+delhi,central delhi,damaged footpath,59,-33.4412450701935
+delhi,rohini,pothole,59,-38.20126470363689
+delhi,rohini,sewage issue,59,-34.57059362794455
+delhi,north delhi,sewage issue,59,-34.59333648095041
+delhi,north delhi,water supply issue,59,-44.37323491763699
+delhi,dwarka,garbage overflow,58,-36.907264226103905
+delhi,east delhi,water supply issue,58,-42.68941697798949
+delhi,dwarka,pothole,57,-35.92624071308026
+delhi,west delhi,garbage overflow,57,-35.407174494736566
+delhi,south delhi,broken streetlight,57,-35.81691901333194
+delhi,rohini,damaged footpath,57,-32.52375822770609
+delhi,south delhi,water supply issue,57,-41.92995340047615
+delhi,south delhi,water supply issue,56,-40.92995340047615
+delhi,south delhi,sewage issue,56,-31.15005496378957
+delhi,central delhi,garbage overflow,54,-32.099775059147944
+delhi,central delhi,water supply issue,54,-38.26797890711853
+delhi,south delhi,water supply issue,54,-38.92995340047615
+delhi,east delhi,damaged footpath,54,-28.86268314106446
+delhi,south delhi,damaged footpath,53,-28.103219563551118
+delhi,rohini,pothole,53,-32.20126470363689
+delhi,south delhi,damaged footpath,53,-28.103219563551118
+delhi,east delhi,broken streetlight,53,-31.576382590845277
+delhi,central delhi,garbage overflow,52,-30.099775059147948
+delhi,rohini,pothole,52,-31.201264703636888
+delhi,dwarka,sewage issue,52,-27.295569637387914
+delhi,west delhi,water supply issue,52,-36.575378342707154
+delhi,west delhi,garbage overflow,52,-30.40717449473657
+delhi,east delhi,water supply issue,51,-35.68941697798949
+delhi,west delhi,water supply issue,51,-35.575378342707154
+delhi,dwarka,broken streetlight,51,-29.96243368693028
+delhi,south delhi,sewage issue,51,-26.15005496378957
+delhi,west delhi,garbage overflow,50,-28.40717449473657
+delhi,east delhi,garbage overflow,50,-28.521213130018904
+delhi,dwarka,damaged footpath,49,-24.24873423714946
+delhi,south delhi,garbage overflow,49,-27.761749552505563
+delhi,north delhi,water supply issue,49,-34.37323491763699
+delhi,south delhi,damaged footpath,49,-24.103219563551118
+delhi,west delhi,broken streetlight,49,-27.46234395556294
+delhi,north delhi,broken streetlight,48,-27.260200530492778
+delhi,south delhi,damaged footpath,48,-23.103219563551118
+delhi,dwarka,sewage issue,48,-23.295569637387914
+delhi,central delhi,broken streetlight,47,-25.154944519974322
+delhi,east delhi,damaged footpath,47,-21.86268314106446
+delhi,south delhi,pothole,47,-25.780726039481916
+delhi,west delhi,damaged footpath,47,-21.748644505782124
+delhi,north delhi,damaged footpath,47,-22.54650108071196
+delhi,dwarka,sewage issue,47,-22.295569637387914
+delhi,dwarka,damaged footpath,45,-20.24873423714946
+delhi,dwarka,pothole,45,-23.926240713080258
+delhi,south delhi,broken streetlight,44,-22.816919013331937
+delhi,rohini,garbage overflow,44,-23.182288216660535
+delhi,dwarka,garbage overflow,44,-22.907264226103905
+delhi,rohini,broken streetlight,43,-22.237457677486905
+delhi,east delhi,garbage overflow,43,-21.521213130018904
+delhi,north delhi,pothole,43,-22.224007556642757
+delhi,central delhi,damaged footpath,43,-17.441245070193506
+delhi,north delhi,pothole,43,-22.224007556642757
+delhi,west delhi,damaged footpath,43,-17.748644505782124
+delhi,central delhi,garbage overflow,42,-20.099775059147948
+delhi,north delhi,sewage issue,42,-17.593336480950413
+delhi,south delhi,sewage issue,42,-17.15005496378957
+delhi,north delhi,broken streetlight,41,-20.260200530492778
+delhi,central delhi,garbage overflow,41,-19.099775059147948
+delhi,rohini,water supply issue,41,-26.35049206463112
+delhi,east delhi,pothole,41,-19.540189616995256
+delhi,south delhi,broken streetlight,40,-18.816919013331937
+delhi,west delhi,damaged footpath,40,-14.748644505782124
+delhi,dwarka,pothole,40,-18.926240713080258
+delhi,north delhi,garbage overflow,40,-19.205031069666404
+delhi,south delhi,damaged footpath,39,-14.103219563551118
+delhi,central delhi,garbage overflow,39,-17.099775059147948
+delhi,central delhi,sewage issue,38,-12.488080470431957
+delhi,dwarka,water supply issue,38,-23.075468074074493
+delhi,east delhi,broken streetlight,38,-16.576382590845277
+delhi,central delhi,sewage issue,38,-12.488080470431957
+delhi,north delhi,garbage overflow,38,-17.205031069666404
+delhi,south delhi,garbage overflow,37,-15.761749552505563
+delhi,rohini,garbage overflow,36,-15.182288216660535
+delhi,west delhi,damaged footpath,36,-10.748644505782124
+delhi,west delhi,damaged footpath,36,-10.748644505782124
+delhi,central delhi,garbage overflow,35,-13.099775059147948
+delhi,east delhi,broken streetlight,35,-13.576382590845277
+delhi,north delhi,sewage issue,35,-10.593336480950413
+delhi,south delhi,pothole,35,-13.780726039481916
+delhi,north delhi,garbage overflow,35,-14.205031069666404
+delhi,central delhi,sewage issue,34,-8.488080470431957
+delhi,north delhi,pothole,34,-13.224007556642757
+delhi,central delhi,broken streetlight,34,-12.154944519974322
+delhi,rohini,broken streetlight,34,-13.237457677486905
+delhi,north delhi,pothole,34,-13.224007556642757
+delhi,south delhi,broken streetlight,33,-11.816919013331937
+delhi,south delhi,damaged footpath,33,-8.103219563551118
+delhi,south delhi,damaged footpath,33,-8.103219563551118
+delhi,west delhi,broken streetlight,32,-10.46234395556294
+delhi,central delhi,pothole,32,-10.118751546124301
+delhi,rohini,pothole,32,-11.201264703636888
+delhi,north delhi,damaged footpath,31,-6.546501080711959
+delhi,dwarka,pothole,31,-9.926240713080258
+delhi,east delhi,water supply issue,30,-14.689416977989488
+delhi,rohini,water supply issue,30,-15.35049206463112
+delhi,east delhi,sewage issue,29,-3.909518541302912
+delhi,east delhi,water supply issue,29,-13.689416977989488
+delhi,east delhi,damaged footpath,29,-3.8626831410644584
+delhi,north delhi,sewage issue,28,-3.5933364809504127
+delhi,south delhi,water supply issue,28,-12.929953400476148
+delhi,rohini,garbage overflow,28,-7.182288216660535
+delhi,west delhi,water supply issue,28,-12.575378342707154
+delhi,east delhi,damaged footpath,27,-1.8626831410644584
+delhi,central delhi,water supply issue,27,-11.267978907118536
+delhi,rohini,sewage issue,27,-2.570593627944543
+delhi,north delhi,garbage overflow,26,-5.205031069666404
+delhi,central delhi,pothole,26,-4.118751546124301
+delhi,dwarka,broken streetlight,26,-4.962433686930279
+delhi,central delhi,damaged footpath,26,-0.44124507019350645
+delhi,dwarka,water supply issue,26,-11.075468074074491
+delhi,north delhi,damaged footpath,25,-0.546501080711959
+delhi,north delhi,sewage issue,24,0.4066635190495873
+delhi,south delhi,damaged footpath,24,0.8967804364488821
+delhi,dwarka,broken streetlight,24,-2.9624336869302788
+delhi,central delhi,broken streetlight,23,-1.1549445199743218
+delhi,rohini,damaged footpath,23,1.4762417722939105
+delhi,south delhi,sewage issue,23,1.8499450362104284
+delhi,central delhi,pothole,23,-1.118751546124301
+delhi,east delhi,pothole,23,-1.5401896169952565
+delhi,rohini,damaged footpath,23,1.4762417722939105
+delhi,north delhi,water supply issue,22,-7.3732349176369905
+delhi,dwarka,pothole,22,-0.9262407130802579
+delhi,west delhi,sewage issue,22,3.204520093979422
+delhi,west delhi,pothole,21,0.5738490182870777
+delhi,rohini,sewage issue,21,3.429406372055457
+delhi,west delhi,sewage issue,21,4.204520093979422
+delhi,south delhi,garbage overflow,21,0.2382504474944369
+delhi,west delhi,garbage overflow,20,1.5928255052634306
+delhi,rohini,water supply issue,20,-5.350492064631119
+delhi,north delhi,sewage issue,19,5.406663519049587
+delhi,central delhi,broken streetlight,19,2.845055480025678
+delhi,east delhi,pothole,19,2.4598103830047435
+delhi,west delhi,sewage issue,18,7.204520093979422
+delhi,west delhi,broken streetlight,17,4.53765604443706
+delhi,east delhi,broken streetlight,16,5.423617409154723
+delhi,west delhi,sewage issue,15,10.204520093979422
+delhi,west delhi,broken streetlight,15,6.53765604443706
+delhi,south delhi,water supply issue,14,1.0700465995238524
+delhi,north delhi,sewage issue,14,10.406663519049587
+delhi,east delhi,sewage issue,14,11.090481458697088
+delhi,south delhi,garbage overflow,13,8.238250447494437
+delhi,central delhi,damaged footpath,13,12.558754929806494
+delhi,rohini,sewage issue,13,11.429406372055457
+delhi,north delhi,broken streetlight,13,7.739799469507222
+delhi,south delhi,water supply issue,12,3.0700465995238524
+delhi,central delhi,pothole,12,9.881248453875699
+delhi,central delhi,sewage issue,11,14.511919529568043
+delhi,north delhi,broken streetlight,11,9.739799469507222
+delhi,south delhi,water supply issue,11,4.070046599523852
+delhi,west delhi,pothole,11,10.573849018287078
+delhi,north delhi,garbage overflow,11,9.794968930333596
+delhi,central delhi,broken streetlight,10,11.845055480025678
+delhi,west delhi,sewage issue,10,15.204520093979422
+delhi,dwarka,garbage overflow,10,11.092735773896095
+delhi,central delhi,garbage overflow,10,11.900224940852052
+delhi,east delhi,broken streetlight,9,12.423617409154723
+delhi,north delhi,garbage overflow,9,11.794968930333596
+delhi,rohini,garbage overflow,9,11.817711783339465
+delhi,east delhi,damaged footpath,9,16.13731685893554
+delhi,east delhi,garbage overflow,9,12.478786869981096
+delhi,dwarka,water supply issue,9,5.924531925925509
+delhi,west delhi,water supply issue,9,6.424621657292846
+delhi,rohini,pothole,8,12.798735296363112
+delhi,central delhi,sewage issue,8,17.511919529568043
+delhi,south delhi,pothole,8,13.219273960518084
+delhi,rohini,pothole,8,12.798735296363112
+delhi,west delhi,pothole,8,13.573849018287078
+delhi,central delhi,damaged footpath,7,18.558754929806494
+delhi,dwarka,pothole,7,14.073759286919742
+delhi,south delhi,broken streetlight,6,15.183080986668063
+delhi,rohini,garbage overflow,6,14.817711783339465
+delhi,north delhi,pothole,5,15.775992443357243
+delhi,west delhi,water supply issue,5,10.424621657292846
+delhi,west delhi,sewage issue,5,20.204520093979422
+delhi,rohini,damaged footpath,5,19.47624177229391
+delhi,east delhi,garbage overflow,5,16.478786869981096
+delhi,south delhi,broken streetlight,5,16.183080986668063
+delhi,dwarka,damaged footpath,4,20.75126576285054
+delhi,central delhi,water supply issue,3,12.732021092881464
+delhi,dwarka,sewage issue,3,21.704430362612086
+delhi,east delhi,broken streetlight,3,18.423617409154723
+delhi,north delhi,pothole,3,17.775992443357243
+delhi,central delhi,pothole,3,18.8812484538757
+delhi,central delhi,damaged footpath,2,23.558754929806494
+delhi,north delhi,garbage overflow,2,18.794968930333596
+delhi,west delhi,damaged footpath,1,24.251355494217876
+delhi,dwarka,garbage overflow,1,20.092735773896095
+delhi,rohini,water supply issue,1,13.64950793536888
+delhi,central delhi,damaged footpath,1,24.558754929806494
+delhi,central delhi,water supply issue,0,15.732021092881464
+delhi,south delhi,pothole,0,21.219273960518084
+hyderabad,kukatpally,garbage overflow,59,-37.334003855672925
+hyderabad,madhapur,pothole,59,-36.95735415807139
+hyderabad,gachibowli,broken streetlight,59,-36.908428628278834
+hyderabad,gachibowli,pothole,57,-34.87223565442881
+hyderabad,lb nagar,pothole,57,-36.07570894625959
+hyderabad,secunderabad,pothole,57,-35.30894983641487
+hyderabad,gachibowli,pothole,57,-34.87223565442881
+hyderabad,madhapur,pothole,57,-34.95735415807139
+hyderabad,kukatpally,sewage issue,57,-31.722309266956934
+hyderabad,lb nagar,pothole,56,-35.07570894625959
+hyderabad,kukatpally,broken streetlight,56,-34.389173316499296
+hyderabad,lb nagar,damaged footpath,55,-30.39820247032879
+hyderabad,gachibowli,broken streetlight,55,-32.908428628278834
+hyderabad,kukatpally,water supply issue,55,-39.50220770364351
+hyderabad,madhapur,sewage issue,55,-29.32668308237905
+hyderabad,secunderabad,broken streetlight,54,-32.34514281026489
+hyderabad,secunderabad,sewage issue,54,-28.67827876072253
+hyderabad,lb nagar,sewage issue,54,-29.445037870567244
+hyderabad,secunderabad,garbage overflow,53,-31.289973349438522
+hyderabad,lb nagar,damaged footpath,53,-28.39820247032879
+hyderabad,madhapur,water supply issue,52,-36.10658151906563
+hyderabad,kukatpally,damaged footpath,52,-26.675473866718484
+hyderabad,madhapur,garbage overflow,51,-28.938377671095036
+hyderabad,gachibowli,damaged footpath,51,-25.194729178498015
+hyderabad,secunderabad,pothole,51,-29.30894983641487
+hyderabad,secunderabad,water supply issue,50,-34.45817719740911
+hyderabad,lb nagar,water supply issue,50,-35.22493630725382
+hyderabad,madhapur,water supply issue,49,-33.10658151906563
+hyderabad,lb nagar,garbage overflow,49,-28.056732459283236
+hyderabad,lb nagar,garbage overflow,48,-27.056732459283236
+hyderabad,secunderabad,garbage overflow,47,-25.289973349438522
+hyderabad,lb nagar,damaged footpath,46,-21.39820247032879
+hyderabad,secunderabad,garbage overflow,45,-23.289973349438522
+hyderabad,gachibowli,broken streetlight,45,-22.908428628278834
+hyderabad,madhapur,garbage overflow,45,-22.938377671095036
+hyderabad,lb nagar,pothole,45,-24.07570894625959
+hyderabad,gachibowli,garbage overflow,44,-21.85325916745246
+hyderabad,secunderabad,garbage overflow,44,-22.289973349438522
+hyderabad,kukatpally,garbage overflow,44,-22.334003855672925
+hyderabad,secunderabad,broken streetlight,44,-22.345142810264893
+hyderabad,lb nagar,water supply issue,43,-28.22493630725382
+hyderabad,lb nagar,broken streetlight,43,-22.111901920109606
+hyderabad,secunderabad,garbage overflow,42,-20.289973349438522
+hyderabad,madhapur,damaged footpath,42,-16.279847682140595
+hyderabad,kukatpally,damaged footpath,42,-16.675473866718484
+hyderabad,gachibowli,pothole,41,-18.872235654428813
+hyderabad,lb nagar,water supply issue,40,-25.22493630725382
+hyderabad,kukatpally,damaged footpath,40,-14.675473866718484
+hyderabad,kukatpally,sewage issue,40,-14.722309266956934
+hyderabad,kukatpally,garbage overflow,40,-18.334003855672925
+hyderabad,gachibowli,pothole,40,-17.872235654428813
+hyderabad,kukatpally,sewage issue,40,-14.722309266956934
+hyderabad,secunderabad,pothole,40,-18.30894983641487
+hyderabad,gachibowli,pothole,40,-17.872235654428813
+hyderabad,madhapur,damaged footpath,39,-13.279847682140595
+hyderabad,kukatpally,water supply issue,38,-22.502207703643514
+hyderabad,gachibowli,damaged footpath,38,-12.194729178498015
+hyderabad,lb nagar,damaged footpath,38,-13.39820247032879
+hyderabad,secunderabad,broken streetlight,37,-15.345142810264893
+hyderabad,kukatpally,pothole,37,-15.352980342649278
+hyderabad,secunderabad,water supply issue,36,-20.458177197409107
+hyderabad,secunderabad,damaged footpath,36,-10.631443360484077
+hyderabad,lb nagar,sewage issue,36,-11.445037870567244
+hyderabad,kukatpally,water supply issue,35,-19.502207703643514
+hyderabad,madhapur,broken streetlight,35,-12.99354713192141
+hyderabad,kukatpally,water supply issue,34,-18.502207703643514
+hyderabad,kukatpally,water supply issue,34,-18.502207703643514
+hyderabad,secunderabad,garbage overflow,34,-12.289973349438522
+hyderabad,gachibowli,damaged footpath,33,-7.194729178498015
+hyderabad,lb nagar,broken streetlight,33,-12.111901920109606
+hyderabad,lb nagar,garbage overflow,33,-12.056732459283236
+hyderabad,kukatpally,pothole,32,-10.352980342649278
+hyderabad,madhapur,sewage issue,32,-6.3266830823790485
+hyderabad,kukatpally,water supply issue,32,-16.502207703643514
+hyderabad,madhapur,water supply issue,31,-15.106581519065625
+hyderabad,secunderabad,garbage overflow,31,-9.289973349438522
+hyderabad,kukatpally,damaged footpath,31,-5.675473866718484
+hyderabad,gachibowli,garbage overflow,31,-8.85325916745246
+hyderabad,kukatpally,garbage overflow,30,-8.334003855672925
+hyderabad,gachibowli,sewage issue,28,-2.241564578736469
+hyderabad,lb nagar,sewage issue,28,-3.445037870567244
+hyderabad,gachibowli,pothole,28,-5.872235654428813
+hyderabad,secunderabad,damaged footpath,28,-2.6314433604840772
+hyderabad,gachibowli,damaged footpath,27,-1.1947291784980152
+hyderabad,madhapur,pothole,27,-4.957354158071389
+hyderabad,gachibowli,sewage issue,27,-1.2415645787364689
+hyderabad,lb nagar,broken streetlight,26,-5.111901920109606
+hyderabad,gachibowli,broken streetlight,26,-3.908428628278834
+hyderabad,kukatpally,damaged footpath,26,-0.6754738667184839
+hyderabad,madhapur,sewage issue,26,-0.32668308237904853
+hyderabad,gachibowli,garbage overflow,26,-3.8532591674524603
+hyderabad,lb nagar,water supply issue,26,-11.22493630725382
+hyderabad,kukatpally,broken streetlight,25,-3.389173316499299
+hyderabad,madhapur,damaged footpath,25,0.7201523178594051
+hyderabad,madhapur,sewage issue,25,0.6733169176209515
+hyderabad,gachibowli,garbage overflow,25,-2.8532591674524603
+hyderabad,lb nagar,sewage issue,25,-0.4450378705672442
+hyderabad,secunderabad,garbage overflow,24,-2.2899733494385224
+hyderabad,lb nagar,pothole,24,-3.0757089462595886
+hyderabad,secunderabad,sewage issue,24,1.321721239277469
+hyderabad,gachibowli,sewage issue,24,1.7584354212635311
+hyderabad,secunderabad,broken streetlight,23,-1.3451428102648926
+hyderabad,gachibowli,broken streetlight,22,0.09157137172116592
+hyderabad,kukatpally,sewage issue,21,4.277690733043066
+hyderabad,secunderabad,damaged footpath,21,4.368556639515923
+hyderabad,gachibowli,broken streetlight,20,2.091571371721166
+hyderabad,gachibowli,pothole,20,2.1277643455711868
+hyderabad,madhapur,damaged footpath,19,6.720152317859405
+hyderabad,madhapur,damaged footpath,19,6.720152317859405
+hyderabad,madhapur,pothole,19,3.0426458419286107
+hyderabad,madhapur,broken streetlight,18,4.00645286807859
+hyderabad,gachibowli,garbage overflow,18,4.14674083254754
+hyderabad,lb nagar,sewage issue,17,7.554962129432756
+hyderabad,secunderabad,broken streetlight,17,4.654857189735107
+hyderabad,lb nagar,sewage issue,17,7.554962129432756
+hyderabad,lb nagar,pothole,17,3.9242910537404114
+hyderabad,lb nagar,garbage overflow,16,4.943267540716764
+hyderabad,madhapur,broken streetlight,16,6.00645286807859
+hyderabad,secunderabad,sewage issue,16,9.321721239277469
+hyderabad,kukatpally,sewage issue,15,10.277690733043066
+hyderabad,madhapur,pothole,15,7.042645841928611
+hyderabad,madhapur,broken streetlight,15,7.00645286807859
+hyderabad,kukatpally,water supply issue,14,1.4977922963564865
+hyderabad,madhapur,garbage overflow,14,8.061622328904964
+hyderabad,secunderabad,damaged footpath,14,11.368556639515923
+hyderabad,kukatpally,broken streetlight,14,7.610826683500701
+hyderabad,madhapur,broken streetlight,14,8.00645286807859
+hyderabad,gachibowli,garbage overflow,13,9.14674083254754
+hyderabad,gachibowli,water supply issue,13,2.978536984576955
+hyderabad,lb nagar,broken streetlight,13,7.888098079890394
+hyderabad,madhapur,sewage issue,12,13.673316917620951
+hyderabad,madhapur,damaged footpath,12,13.720152317859405
+hyderabad,madhapur,water supply issue,12,3.8934184809343755
+hyderabad,madhapur,garbage overflow,11,11.061622328904964
+hyderabad,kukatpally,pothole,11,10.647019657350722
+hyderabad,madhapur,damaged footpath,10,15.720152317859405
+hyderabad,gachibowli,damaged footpath,10,15.805270821501985
+hyderabad,madhapur,water supply issue,9,6.8934184809343755
+hyderabad,gachibowli,damaged footpath,9,16.805270821501985
+hyderabad,gachibowli,broken streetlight,7,15.091571371721166
+hyderabad,madhapur,damaged footpath,7,18.720152317859405
+hyderabad,kukatpally,garbage overflow,6,15.665996144327075
+hyderabad,secunderabad,damaged footpath,6,19.368556639515923
+hyderabad,kukatpally,broken streetlight,6,15.6108266835007
+hyderabad,gachibowli,pothole,5,17.127764345571187
+hyderabad,gachibowli,pothole,5,17.127764345571187
+hyderabad,lb nagar,garbage overflow,5,15.943267540716764
+hyderabad,secunderabad,broken streetlight,5,16.654857189735107
+hyderabad,kukatpally,pothole,5,16.64701965735072
+hyderabad,gachibowli,sewage issue,5,20.75843542126353
+hyderabad,lb nagar,pothole,4,16.92429105374041
+hyderabad,gachibowli,water supply issue,3,12.978536984576955
+hyderabad,kukatpally,water supply issue,3,12.497792296356486
+hyderabad,madhapur,damaged footpath,3,22.720152317859405
+hyderabad,kukatpally,pothole,3,18.64701965735072
+hyderabad,madhapur,garbage overflow,3,19.061622328904964
+hyderabad,secunderabad,damaged footpath,2,23.368556639515923
+hyderabad,madhapur,pothole,2,20.04264584192861
+hyderabad,secunderabad,garbage overflow,1,20.710026650561478
+hyderabad,secunderabad,broken streetlight,1,20.654857189735107
+hyderabad,gachibowli,garbage overflow,1,21.14674083254754
+hyderabad,madhapur,damaged footpath,1,24.720152317859405
+hyderabad,gachibowli,pothole,0,22.127764345571187
+hyderabad,kukatpally,broken streetlight,0,21.6108266835007
+hyderabad,madhapur,pothole,0,22.04264584192861
+mumbai,ghatkopar,pothole,59,-37.79433587978161
+mumbai,dadar,garbage overflow,57,-35.60003937661263
+mumbai,ghatkopar,pothole,57,-35.79433587978161
+mumbai,dadar,pothole,56,-34.61901586358898
+mumbai,andheri east,damaged footpath,56,-31.44468999626022
+mumbai,ghatkopar,water supply issue,56,-40.943563240775845
+mumbai,kurla,garbage overflow,55,-33.632914070548196
+mumbai,ghatkopar,damaged footpath,55,-30.116829403850815
+mumbai,dadar,sewage issue,55,-29.988344787896633
+mumbai,dadar,broken streetlight,54,-32.655208837439
+mumbai,bandra east,sewage issue,54,-28.981721648975064
+mumbai,andheri east,sewage issue,54,-29.491525396498673
+mumbai,bandra east,pothole,54,-32.61239272466741
+mumbai,ghatkopar,sewage issue,54,-29.163664804089265
+mumbai,bandra east,damaged footpath,53,-27.93488624873661
+mumbai,bandra west,sewage issue,52,-26.650680171410578
+mumbai,borivali,damaged footpath,52,-27.61587028837898
+mumbai,bandra west,water supply issue,52,-36.43057860809716
+mumbai,bandra east,broken streetlight,52,-30.64858569851743
+mumbai,andheri east,garbage overflow,52,-31.103219985214665
+mumbai,bandra west,damaged footpath,52,-26.603844771172128
+mumbai,bandra east,broken streetlight,51,-29.64858569851743
+mumbai,ghatkopar,pothole,50,-28.79433587978161
+mumbai,bandra west,garbage overflow,50,-28.262374760126573
+mumbai,dadar,water supply issue,50,-34.76824322458321
+mumbai,andheri west,garbage overflow,49,-27.38612042979295
+mumbai,andheri west,garbage overflow,49,-27.38612042979295
+mumbai,bandra west,water supply issue,49,-33.43057860809716
+mumbai,andheri east,pothole,49,-28.122196472191018
+mumbai,bandra east,pothole,49,-27.61239272466741
+mumbai,andheri west,sewage issue,49,-23.774425841076958
+mumbai,andheri west,damaged footpath,48,-22.727590440838505
+mumbai,borivali,water supply issue,48,-33.44260412530401
+mumbai,bandra east,sewage issue,48,-22.981721648975064
+mumbai,bandra east,damaged footpath,48,-22.93488624873661
+mumbai,andheri west,pothole,47,-25.405096916769303
+mumbai,andheri east,garbage overflow,47,-26.103219985214665
+mumbai,borivali,pothole,46,-25.293376764309777
+mumbai,kurla,garbage overflow,46,-24.632914070548193
+mumbai,dadar,damaged footpath,46,-20.94150938765818
+mumbai,ghatkopar,broken streetlight,46,-24.83052885363163
+mumbai,andheri east,sewage issue,44,-19.491525396498673
+mumbai,borivali,broken streetlight,44,-23.329569738159794
+mumbai,bandra east,sewage issue,44,-18.981721648975064
+mumbai,kurla,damaged footpath,43,-17.974384081593747
+mumbai,andheri west,garbage overflow,43,-21.38612042979295
+mumbai,andheri west,broken streetlight,43,-21.441289890619323
+mumbai,bandra west,pothole,43,-21.281351247102922
+mumbai,andheri east,water supply issue,43,-28.271423833185253
+mumbai,bandra west,pothole,43,-21.281351247102922
+mumbai,ghatkopar,pothole,41,-19.79433587978161
+mumbai,ghatkopar,garbage overflow,40,-18.77535939280526
+mumbai,andheri east,sewage issue,40,-15.491525396498673
+mumbai,kurla,pothole,40,-18.651890557524545
+mumbai,andheri east,broken streetlight,39,-18.15838944604104
+mumbai,dadar,sewage issue,38,-12.988344787896633
+mumbai,ghatkopar,broken streetlight,38,-16.83052885363163
+mumbai,bandra east,sewage issue,38,-12.981721648975064
+mumbai,dadar,damaged footpath,38,-12.94150938765818
+mumbai,kurla,damaged footpath,38,-12.974384081593747
+mumbai,kurla,broken streetlight,38,-16.688083531374566
+mumbai,bandra east,damaged footpath,37,-11.93488624873661
+mumbai,bandra east,pothole,37,-15.612392724667409
+mumbai,andheri west,water supply issue,37,-21.554324277763534
+mumbai,ghatkopar,damaged footpath,37,-12.116829403850815
+mumbai,kurla,water supply issue,36,-20.801117918518777
+mumbai,bandra west,sewage issue,36,-10.650680171410578
+mumbai,bandra west,broken streetlight,36,-14.317544220952943
+mumbai,borivali,sewage issue,35,-10.662705688617432
+mumbai,dadar,pothole,35,-13.619015863588977
+mumbai,bandra west,pothole,33,-11.281351247102922
+mumbai,borivali,water supply issue,33,-18.44260412530401
+mumbai,andheri west,water supply issue,33,-17.554324277763534
+mumbai,ghatkopar,damaged footpath,33,-8.116829403850815
+mumbai,andheri east,sewage issue,32,-7.491525396498673
+mumbai,dadar,pothole,32,-10.619015863588977
+mumbai,dadar,pothole,31,-9.619015863588977
+mumbai,dadar,pothole,31,-9.619015863588977
+mumbai,kurla,pothole,30,-8.651890557524545
+mumbai,bandra west,garbage overflow,28,-6.262374760126573
+mumbai,kurla,water supply issue,28,-12.801117918518777
+mumbai,andheri west,water supply issue,28,-12.554324277763536
+mumbai,bandra west,pothole,28,-6.281351247102922
+mumbai,dadar,damaged footpath,28,-2.9415093876581793
+mumbai,borivali,garbage overflow,27,-6.274400277333424
+mumbai,dadar,pothole,27,-5.619015863588977
+mumbai,dadar,sewage issue,27,-1.988344787896633
+mumbai,ghatkopar,water supply issue,27,-11.943563240775845
+mumbai,bandra east,damaged footpath,26,-0.9348862487366105
+mumbai,borivali,pothole,26,-5.293376764309777
+mumbai,andheri west,water supply issue,26,-10.554324277763536
+mumbai,bandra east,pothole,25,-3.6123927246674086
+mumbai,dadar,broken streetlight,25,-3.655208837438998
+mumbai,kurla,water supply issue,25,-9.801117918518777
+mumbai,dadar,sewage issue,25,0.011655212103367063
+mumbai,andheri east,damaged footpath,25,-0.44468999626021954
+mumbai,andheri west,broken streetlight,25,-3.4412898906193234
+mumbai,ghatkopar,damaged footpath,25,-0.11682940385081508
+mumbai,bandra west,pothole,25,-3.281351247102922
+mumbai,ghatkopar,sewage issue,24,0.8363351959107348
+mumbai,borivali,sewage issue,24,0.3372943113825677
+mumbai,ghatkopar,broken streetlight,24,-2.8305288536316304
+mumbai,dadar,pothole,24,-2.6190158635889773
+mumbai,kurla,damaged footpath,24,1.0256159184062525
+mumbai,bandra east,sewage issue,23,2.018278351024936
+mumbai,borivali,sewage issue,23,1.3372943113825677
+mumbai,dadar,pothole,23,-1.6190158635889773
+mumbai,dadar,sewage issue,23,2.011655212103367
+mumbai,borivali,water supply issue,22,-7.442604125304008
+mumbai,andheri east,sewage issue,22,2.508474603501327
+mumbai,dadar,broken streetlight,21,0.34479116256100184
+mumbai,bandra east,sewage issue,21,4.018278351024936
+mumbai,borivali,water supply issue,21,-6.442604125304008
+mumbai,bandra west,water supply issue,21,-5.430578608097157
+mumbai,andheri west,water supply issue,21,-5.554324277763536
+mumbai,andheri east,damaged footpath,20,4.5553100037397805
+mumbai,andheri west,damaged footpath,19,6.2724095591614955
+mumbai,bandra east,pothole,19,2.3876072753325914
+mumbai,borivali,pothole,18,2.7066232356902233
+mumbai,andheri west,damaged footpath,17,8.272409559161495
+mumbai,ghatkopar,sewage issue,17,7.836335195910735
+mumbai,bandra east,sewage issue,17,8.018278351024936
+mumbai,kurla,damaged footpath,16,9.025615918406253
+mumbai,ghatkopar,sewage issue,13,11.836335195910735
+mumbai,borivali,damaged footpath,12,12.384129711621021
+mumbai,bandra west,water supply issue,12,3.569421391902843
+mumbai,kurla,water supply issue,11,4.198882081481223
+mumbai,ghatkopar,damaged footpath,11,13.883170596149185
+mumbai,bandra west,sewage issue,11,14.349319828589422
+mumbai,andheri west,pothole,11,10.594903083230697
+mumbai,bandra east,garbage overflow,10,11.406583762308944
+mumbai,borivali,sewage issue,10,14.337294311382568
+mumbai,ghatkopar,sewage issue,10,14.836335195910735
+mumbai,andheri east,damaged footpath,9,15.55531000373978
+mumbai,bandra east,water supply issue,9,6.238379914338358
+mumbai,borivali,damaged footpath,9,15.384129711621021
+mumbai,andheri east,pothole,9,11.877803527808982
+mumbai,andheri east,damaged footpath,9,15.55531000373978
+mumbai,borivali,pothole,8,12.706623235690223
+mumbai,dadar,damaged footpath,8,17.05849061234182
+mumbai,bandra west,broken streetlight,8,13.682455779047057
+mumbai,kurla,water supply issue,8,7.198882081481223
+mumbai,kurla,damaged footpath,8,17.025615918406253
+mumbai,ghatkopar,sewage issue,7,17.836335195910735
+mumbai,andheri east,garbage overflow,7,13.896780014785335
+mumbai,ghatkopar,water supply issue,7,8.056436759224155
+mumbai,andheri west,water supply issue,7,8.445675722236464
+mumbai,bandra west,garbage overflow,6,15.737625239873427
+mumbai,andheri west,water supply issue,5,10.445675722236464
+mumbai,bandra east,pothole,5,16.38760727533259
+mumbai,borivali,water supply issue,5,9.557395874695992
+mumbai,dadar,sewage issue,4,21.011655212103367
+mumbai,andheri west,water supply issue,4,11.445675722236464
+mumbai,bandra west,broken streetlight,4,17.682455779047057
+mumbai,dadar,sewage issue,4,21.011655212103367
+mumbai,ghatkopar,sewage issue,4,20.836335195910735
+mumbai,andheri west,garbage overflow,4,17.61387957020705
+mumbai,dadar,sewage issue,4,21.011655212103367
+mumbai,borivali,pothole,4,16.706623235690223
+mumbai,bandra west,garbage overflow,3,18.737625239873427
+mumbai,andheri west,broken streetlight,3,18.558710109380677
+mumbai,bandra west,water supply issue,3,12.569421391902843
+mumbai,andheri east,broken streetlight,3,17.84161055395896
+mumbai,kurla,water supply issue,2,13.198882081481223
+mumbai,andheri east,garbage overflow,2,18.896780014785335
+mumbai,andheri east,damaged footpath,2,22.55531000373978
+mumbai,bandra west,pothole,2,19.718648752897078
+mumbai,ghatkopar,sewage issue,1,23.836335195910735
+mumbai,kurla,garbage overflow,1,20.367085929451807
+mumbai,andheri west,garbage overflow,1,20.61387957020705
+mumbai,andheri west,broken streetlight,1,20.558710109380677
+mumbai,dadar,damaged footpath,1,24.05849061234182
+mumbai,bandra west,damaged footpath,1,24.396155228827872
+mumbai,bandra west,damaged footpath,0,25.396155228827872
